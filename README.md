@@ -1,1 +1,1 @@
-# Git Study
+# Git Study Repository
